@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34678" started-at="2018-10-10T04:04:41Z" finished-at="2018-10-10T04:05:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34678" started-at="2018-10-10T04:04:41Z" finished-at="2018-10-10T04:05:15Z">
+      <class name="Test.testFlightPageLoad">
+        <test-method status="PASS" signature="clearTripFlightPage()[pri:0, instance:Test.testFlightPageLoad@66480dd7]" name="clearTripFlightPage" duration-ms="31939" started-at="2018-10-10T04:04:41Z" finished-at="2018-10-10T04:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTripFlightPage -->
+        <test-method status="PASS" signature="screenShotToPDF()[pri:0, instance:Test.testFlightPageLoad@66480dd7]" name="screenShotToPDF" is-config="true" duration-ms="2373" started-at="2018-10-10T04:05:13Z" finished-at="2018-10-10T04:05:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShotToPDF -->
+      </class> <!-- Test.testFlightPageLoad -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,700 @@
+2018-10-06 19:40:11 DEBUG testFlightPageLoad:24 - Test Started ivoked  load()
+2018-10-06 19:40:21 DEBUG testFlightPageLoad:28 - Test Started ivoked searchFlights 
+2018-10-06 19:40:22 DEBUG testFlightPageLoad:32 - Test Started ivoked driverQuit 
+2018-10-06 19:56:28 DEBUG testFlightPageLoad:41 - Chrome initiliased as driver
+2018-10-06 19:56:48 DEBUG testFlightPageLoad:56 - Sending value Mumbai
+2018-10-06 19:56:48 DEBUG testFlightPageLoad:56 - Sending value Delhi
+2018-10-06 19:56:52 DEBUG testFlightPageLoad:56 - Sending value 2/11/2018
+2018-10-06 19:56:52 DEBUG testFlightPageLoad:56 - Sending value 1
+2018-10-06 19:56:52 DEBUG testFlightPageLoad:56 - Sending value 0
+2018-10-06 19:56:52 DEBUG testFlightPageLoad:56 - Sending value 0
+2018-10-06 19:56:58 DEBUG testFlightPageLoad:49 - Closing the driver
+2018-10-07 10:02:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:02:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:02:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:02:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:02:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:05:26 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:05:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:05:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:05:26 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:05:26 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:08:13 DEBUG testFlightPageLoad:41 - Chrome initiliased as driver
+2018-10-07 10:08:13 DEBUG testFlightPageLoad:41 - Chrome initiliased as driver
+2018-10-07 10:08:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:08:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:08:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:08:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:08:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:17:59 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:17:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:17:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:17:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:17:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:17:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:29:18 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:29:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:29:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:29:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:29:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:29:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:31:52 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:31:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:31:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:31:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:31:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:31:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:32:30 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:34:07 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:34:30 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 10:34:30 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 10:34:33 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 10:34:34 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 10:34:34 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:34:34 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:34:35 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 10:34:50 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:35:05 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 10:35:06 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 10:35:09 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 10:35:10 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 10:35:10 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:35:10 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:35:15 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 10:35:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:35:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:35:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:35:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:35:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:44:20 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:44:41 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 10:44:41 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 10:44:44 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 10:44:45 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 10:44:45 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:44:45 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:44:45 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 10:44:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:44:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:44:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:44:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:44:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:46:17 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:46:37 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 10:46:39 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 10:46:42 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 10:46:42 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 10:46:42 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:46:42 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:46:44 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 10:46:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:46:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:46:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:46:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:46:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 10:49:36 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 10:50:28 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 10:50:28 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 10:50:31 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 10:50:32 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 10:50:32 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:50:32 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 10:50:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 10:50:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 10:50:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 10:50:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 10:50:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 12:08:31 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 12:09:26 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 12:09:26 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 12:09:30 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 12:09:31 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 12:09:31 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:09:31 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:09:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 12:09:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 12:09:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 12:09:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 12:09:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 12:21:39 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 12:22:14 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 12:22:14 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 12:22:17 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 12:22:17 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 12:22:17 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:22:17 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:22:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 12:22:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 12:22:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 12:22:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 12:22:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 12:31:32 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 12:32:30 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 12:32:30 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 12:32:34 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 12:32:34 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 12:32:34 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:32:34 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:32:38 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 12:32:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 12:32:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 12:32:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 12:32:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 12:32:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 12:36:39 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 12:37:00 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 12:37:00 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 12:37:03 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 12:37:03 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 12:37:03 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:37:04 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:37:05 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 12:37:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 12:37:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 12:37:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 12:37:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 12:37:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 12:42:15 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 12:42:50 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 12:42:50 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 12:42:53 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 12:42:54 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 12:42:54 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:42:54 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:42:55 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 12:42:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 12:42:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 12:42:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 12:42:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 12:42:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 12:44:27 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 12:45:00 DEBUG testFlightPageLoad:59 - Sending value Mumbai
+2018-10-07 12:45:01 DEBUG testFlightPageLoad:59 - Sending value Delhi
+2018-10-07 12:45:04 DEBUG testFlightPageLoad:59 - Sending value 2/11/2018
+2018-10-07 12:45:04 DEBUG testFlightPageLoad:59 - Sending value 1
+2018-10-07 12:45:04 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:45:04 DEBUG testFlightPageLoad:59 - Sending value 0
+2018-10-07 12:45:05 DEBUG testFlightPageLoad:52 - Closing the driver
+2018-10-07 12:45:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 12:45:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 12:45:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 12:45:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 12:45:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 13:41:58 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 13:42:24 DEBUG testFlightPageLoad:61 - Sending value Mumbai
+2018-10-07 13:42:24 DEBUG testFlightPageLoad:61 - Sending value Delhi
+2018-10-07 13:42:27 DEBUG testFlightPageLoad:61 - Sending value 2/11/2018
+2018-10-07 13:42:48 DEBUG testFlightPageLoad:61 - Sending value 1
+2018-10-07 13:42:49 DEBUG testFlightPageLoad:61 - Sending value 0
+2018-10-07 13:42:49 DEBUG testFlightPageLoad:61 - Sending value 0
+2018-10-07 13:46:40 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 13:47:10 DEBUG testFlightPageLoad:60 - Sending value Mumbai
+2018-10-07 13:47:10 DEBUG testFlightPageLoad:60 - Sending value Delhi
+2018-10-07 13:47:14 DEBUG testFlightPageLoad:60 - Sending value 2/11/2018
+2018-10-07 13:47:14 DEBUG testFlightPageLoad:60 - Sending value 1
+2018-10-07 13:47:14 DEBUG testFlightPageLoad:60 - Sending value 0
+2018-10-07 13:47:14 DEBUG testFlightPageLoad:60 - Sending value 0
+2018-10-07 13:47:16 DEBUG testFlightPageLoad:53 - Closing the driver
+2018-10-07 13:47:19 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-07 13:47:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-07 13:47:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-07 13:47:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-07 13:47:19 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-07 13:53:33 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 14:47:15 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 14:49:14 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 14:49:32 DEBUG testFlightPageLoad:60 - Sending value Mumbai
+2018-10-07 14:49:32 DEBUG testFlightPageLoad:60 - Sending value Delhi
+2018-10-07 14:49:35 DEBUG testFlightPageLoad:60 - Sending value 2/11/2018
+2018-10-07 14:49:35 DEBUG testFlightPageLoad:60 - Sending value 1
+2018-10-07 14:49:35 DEBUG testFlightPageLoad:60 - Sending value 0
+2018-10-07 14:49:35 DEBUG testFlightPageLoad:60 - Sending value 0
+2018-10-07 17:08:28 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 17:09:23 DEBUG testFlightPageLoad:60 - Sending value Mumbai
+2018-10-07 17:09:23 DEBUG testFlightPageLoad:60 - Sending value Delhi
+2018-10-07 17:12:17 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 17:12:44 DEBUG testFlightPageLoad:60 - Sending value Mumbai
+2018-10-07 17:12:44 DEBUG testFlightPageLoad:60 - Sending value Delhi
+2018-10-07 17:12:47 DEBUG testFlightPageLoad:60 - Sending value 2/11/2018
+2018-10-07 17:12:48 DEBUG testFlightPageLoad:60 - Sending value 1
+2018-10-07 17:12:48 DEBUG testFlightPageLoad:60 - Sending value 0
+2018-10-07 17:12:48 DEBUG testFlightPageLoad:60 - Sending value 0
+2018-10-07 17:13:40 DEBUG testFlightPageLoad:44 - Chrome initiliased as driver
+2018-10-07 17:25:17 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 17:27:59 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 17:29:13 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 17:35:42 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 17:39:10 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 17:47:06 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 18:40:10 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 19:49:40 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 20:03:01 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 20:22:50 DEBUG testFlightPageLoad:46 - Chrome initiliased as driver
+2018-10-07 21:25:36 DEBUG testFlightPageLoad:48 - Chrome initiliased as driver
+2018-10-07 21:26:26 DEBUG testFlightPageLoad:63 - Sending value Mumbai
+2018-10-07 21:26:26 DEBUG testFlightPageLoad:63 - Sending value Delhi
+2018-10-07 21:26:30 DEBUG testFlightPageLoad:63 - Sending value 2/11/2018
+2018-10-07 21:26:30 DEBUG testFlightPageLoad:63 - Sending value 1
+2018-10-07 21:26:30 DEBUG testFlightPageLoad:63 - Sending value 0
+2018-10-07 21:26:30 DEBUG testFlightPageLoad:63 - Sending value 0
+2018-10-07 21:29:21 DEBUG testFlightPageLoad:48 - Chrome initiliased as driver
+2018-10-07 21:43:11 DEBUG testFlightPageLoad:48 - Chrome initiliased as driver
+2018-10-07 21:45:40 DEBUG testFlightPageLoad:48 - Chrome initiliased as driver
+2018-10-07 22:52:13 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 22:52:36 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 22:52:36 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 22:52:39 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 22:52:40 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 22:52:40 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 22:52:40 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 22:56:27 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 22:56:47 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 22:56:48 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 22:56:51 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 22:56:51 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 22:56:51 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 22:56:51 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:00:03 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 23:00:16 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 23:00:16 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 23:00:19 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 23:00:19 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 23:00:20 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:00:20 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:02:26 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 23:02:48 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 23:02:48 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 23:02:51 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 23:02:51 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 23:02:51 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:02:51 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:12:32 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 23:12:47 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 23:12:47 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 23:12:50 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 23:12:51 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 23:12:51 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:12:51 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:27:50 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 23:28:14 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 23:28:14 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 23:28:17 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 23:28:17 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 23:28:17 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:28:18 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:30:22 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 23:30:38 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 23:30:38 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 23:30:41 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 23:30:41 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 23:30:41 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:30:41 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:33:00 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-07 23:33:26 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-07 23:33:26 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-07 23:33:30 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-07 23:33:30 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-07 23:33:30 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-07 23:33:30 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:23:44 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-08 08:24:03 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-08 08:24:04 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-08 08:24:07 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-08 08:24:08 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-08 08:24:08 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:24:08 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:31:18 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-08 08:31:36 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-08 08:31:37 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-08 08:31:40 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-08 08:31:40 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-08 08:31:40 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:31:40 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:33:39 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-08 08:33:51 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-08 08:33:51 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-08 08:33:54 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-08 08:33:55 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-08 08:33:55 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:33:55 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:35:52 DEBUG testFlightPageLoad:55 - Chrome initiliased as driver
+2018-10-08 08:36:07 DEBUG testFlightPageLoad:70 - Sending value Mumbai
+2018-10-08 08:36:07 DEBUG testFlightPageLoad:70 - Sending value Delhi
+2018-10-08 08:36:10 DEBUG testFlightPageLoad:70 - Sending value 2/11/2018
+2018-10-08 08:36:10 DEBUG testFlightPageLoad:70 - Sending value 1
+2018-10-08 08:36:10 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 08:36:11 DEBUG testFlightPageLoad:70 - Sending value 0
+2018-10-08 09:03:05 DEBUG testFlightPageLoad:57 - Chrome initiliased as driver
+2018-10-08 09:03:18 DEBUG testFlightPageLoad:72 - Sending value Mumbai
+2018-10-08 09:03:18 DEBUG testFlightPageLoad:72 - Sending value Delhi
+2018-10-08 09:03:21 DEBUG testFlightPageLoad:72 - Sending value 2/11/2018
+2018-10-08 09:03:21 DEBUG testFlightPageLoad:72 - Sending value 1
+2018-10-08 09:03:21 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:03:21 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:04:16 DEBUG testFlightPageLoad:57 - Chrome initiliased as driver
+2018-10-08 09:04:26 DEBUG testFlightPageLoad:72 - Sending value Mumbai
+2018-10-08 09:04:27 DEBUG testFlightPageLoad:72 - Sending value Delhi
+2018-10-08 09:04:30 DEBUG testFlightPageLoad:72 - Sending value 2/11/2018
+2018-10-08 09:04:30 DEBUG testFlightPageLoad:72 - Sending value 1
+2018-10-08 09:04:30 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:04:30 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:07:02 DEBUG testFlightPageLoad:57 - Chrome initiliased as driver
+2018-10-08 09:07:23 DEBUG testFlightPageLoad:72 - Sending value Mumbai
+2018-10-08 09:07:23 DEBUG testFlightPageLoad:72 - Sending value Delhi
+2018-10-08 09:07:26 DEBUG testFlightPageLoad:72 - Sending value 2/11/2018
+2018-10-08 09:07:27 DEBUG testFlightPageLoad:72 - Sending value 1
+2018-10-08 09:07:27 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:07:27 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:11:24 DEBUG testFlightPageLoad:57 - Chrome initiliased as driver
+2018-10-08 09:11:38 DEBUG testFlightPageLoad:72 - Sending value Mumbai
+2018-10-08 09:11:38 DEBUG testFlightPageLoad:72 - Sending value Delhi
+2018-10-08 09:11:41 DEBUG testFlightPageLoad:72 - Sending value 2/11/2018
+2018-10-08 09:11:42 DEBUG testFlightPageLoad:72 - Sending value 1
+2018-10-08 09:11:42 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:11:42 DEBUG testFlightPageLoad:72 - Sending value 0
+2018-10-08 09:11:45 DEBUG testFlightPageLoad:65 - Closing the driver
+2018-10-08 10:49:30 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-08 10:53:21 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-08 10:54:33 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-08 10:56:12 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-08 10:56:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-08 10:56:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-08 10:56:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-08 10:56:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-08 10:56:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-08 10:57:34 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-08 10:57:44 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-08 10:57:45 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-08 10:57:48 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-08 10:57:48 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-08 10:57:48 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-08 10:57:48 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-08 10:57:50 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-08 10:58:53 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-08 10:59:04 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-08 10:59:04 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-08 10:59:08 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-08 10:59:08 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-08 10:59:08 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-08 10:59:08 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-08 10:59:10 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 08:30:32 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 08:30:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 08:30:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 08:30:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 08:30:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 08:30:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 08:37:31 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 08:37:42 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 08:37:43 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 08:37:46 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 08:37:46 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 08:37:46 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 08:37:46 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 08:37:49 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 08:49:17 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 08:49:32 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 08:49:37 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 08:49:41 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 08:49:41 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 08:49:41 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 08:49:41 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 08:49:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 08:49:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 08:49:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 08:49:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 08:49:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 08:49:51 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 08:49:53 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 08:49:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 08:49:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 08:49:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 08:49:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 08:49:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 08:50:47 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 08:50:58 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 08:50:58 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 08:51:02 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 08:51:02 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 08:51:02 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 08:51:02 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 08:51:03 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 08:51:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 08:51:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 08:51:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 08:51:03 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 08:51:04 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 08:51:05 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 08:51:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 08:51:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 08:51:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 08:51:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 08:51:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 10:12:54 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 10:13:24 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 10:13:25 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 10:13:28 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 10:13:28 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 10:13:28 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 10:13:28 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 10:13:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 10:13:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 10:13:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 10:13:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 10:13:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 10:13:36 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 10:13:40 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 10:13:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 10:13:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 10:13:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 10:13:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 10:13:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 10:51:18 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 10:51:36 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 10:51:37 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 10:51:40 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 10:51:40 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 10:51:40 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 10:51:40 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 10:51:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 10:51:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 10:51:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 10:51:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 10:51:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 10:51:45 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 10:51:46 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 10:51:46 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 10:51:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 10:51:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 10:51:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 10:51:46 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 23:26:07 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 23:26:19 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 23:26:20 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 23:26:23 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 23:26:23 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 23:26:24 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 23:26:24 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 23:26:27 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 23:26:28 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 23:26:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 23:26:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 23:26:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 23:26:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 23:26:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 23:30:14 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 23:30:35 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 23:30:36 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 23:30:39 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 23:30:39 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 23:30:40 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 23:30:40 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 23:30:42 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-09 23:34:43 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-09 23:35:10 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-09 23:35:10 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-09 23:35:13 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-09 23:35:14 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-09 23:35:14 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 23:35:14 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-09 23:35:19 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 08:36:47 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 08:37:37 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 08:37:38 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 08:37:41 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 08:37:42 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 08:37:42 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 08:37:42 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 08:37:49 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 08:56:44 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 08:57:03 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 08:57:03 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 08:57:06 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 08:57:06 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 08:57:06 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 08:57:06 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 08:57:09 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:18:15 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:18:39 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 09:18:40 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 09:18:43 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 09:18:43 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 09:18:43 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:18:43 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:18:45 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:22:54 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:23:05 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 09:23:06 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 09:23:09 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 09:23:09 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 09:23:09 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:23:09 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:23:10 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:23:34 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:23:47 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 09:23:47 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 09:23:50 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 09:23:50 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 09:23:50 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:23:50 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:23:51 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:25:47 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:26:05 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 09:26:06 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 09:26:09 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 09:26:09 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 09:26:09 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:26:09 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:26:10 DEBUG testFlightPageLoad:95 - Waiting for time5
+2018-10-10 09:26:11 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:26:50 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:27:03 DEBUG testFlightPageLoad:86 - Sending value Mumbai
+2018-10-10 09:27:03 DEBUG testFlightPageLoad:86 - Sending value Delhi
+2018-10-10 09:27:08 DEBUG testFlightPageLoad:86 - Sending value 2/11/2018
+2018-10-10 09:27:08 DEBUG testFlightPageLoad:86 - Sending value 1
+2018-10-10 09:27:09 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:27:09 DEBUG testFlightPageLoad:86 - Sending value 0
+2018-10-10 09:27:09 DEBUG testFlightPageLoad:95 - Waiting for time5
+2018-10-10 09:27:11 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:27:12 DEBUG testFlightPageLoad:79 - Closing the driver
+2018-10-10 09:27:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-10 09:27:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-10 09:27:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-10 09:27:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-10 09:27:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-10 09:30:32 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:30:44 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-10 09:30:45 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-10 09:30:50 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-10 09:30:50 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-10 09:30:50 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-10 09:30:50 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-10 09:30:51 DEBUG testFlightPageLoad:93 - Waiting for time5
+2018-10-10 09:30:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-10 09:30:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-10 09:30:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-10 09:30:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-10 09:30:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-10 09:30:51 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-10 09:30:52 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-10 09:30:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-10 09:30:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-10 09:30:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-10 09:30:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-10 09:30:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-10 09:34:49 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:35:05 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-10 09:35:06 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-10 09:35:11 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-10 09:35:11 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-10 09:35:11 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-10 09:35:11 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-10 09:35:12 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-10 09:35:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-10 09:35:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-10 09:35:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-10 09:35:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-10 09:35:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-10 09:35:14 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-10 09:35:16 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-10 09:35:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-10 09:35:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-10 09:35:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-10 09:35:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-10 09:35:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-10 09:38:14 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-10 09:38:33 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-10 09:38:33 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-10 09:38:38 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-10 09:38:39 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-10 09:38:39 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-10 09:38:39 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-10 09:38:39 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-10 09:38:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-10 09:38:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-10 09:38:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-10 09:38:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-10 09:38:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-10 09:38:41 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 09:01:03 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-11 09:01:26 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-11 09:01:27 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-11 09:01:32 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-11 09:01:32 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-11 09:01:32 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 09:01:33 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 09:01:33 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-11 09:01:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 09:01:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 09:01:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 09:01:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 09:01:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-11 09:01:39 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 09:10:20 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-11 09:10:50 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-11 09:10:51 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-11 09:10:57 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-11 09:10:57 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-11 09:10:57 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 09:10:57 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 09:10:58 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-11 09:11:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 09:11:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 09:11:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 09:11:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 09:11:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-11 09:11:14 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 09:40:27 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-11 09:40:49 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-11 09:40:50 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-11 09:40:55 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-11 09:40:55 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-11 09:40:55 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 09:40:55 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 09:40:57 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-11 09:40:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 09:40:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 09:40:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 09:40:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 09:40:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-11 09:41:00 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 10:45:40 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-11 10:46:06 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-11 10:46:07 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-11 10:46:13 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-11 10:46:13 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-11 10:46:13 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 10:46:13 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 10:46:13 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-11 10:46:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 10:46:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 10:46:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 10:46:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 10:46:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-11 10:46:17 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 10:46:20 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 10:46:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 10:46:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 10:46:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 10:46:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 10:46:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-11 10:46:52 DEBUG testFlightPageLoad:66 - Chrome initiliased as driver
+2018-10-11 10:47:16 DEBUG testFlightPageLoad:84 - Sending value Mumbai
+2018-10-11 10:47:17 DEBUG testFlightPageLoad:84 - Sending value Delhi
+2018-10-11 10:47:22 DEBUG testFlightPageLoad:84 - Sending value 2/11/2018
+2018-10-11 10:47:22 DEBUG testFlightPageLoad:84 - Sending value 1
+2018-10-11 10:47:22 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 10:47:22 DEBUG testFlightPageLoad:84 - Sending value 0
+2018-10-11 10:47:23 DEBUG testFlightPageLoad:102 - Waiting for time5
+2018-10-11 10:47:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 10:47:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 10:47:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 10:47:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 10:47:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-11 10:47:28 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 10:47:32 DEBUG testFlightPageLoad:77 - Closing the driver
+2018-10-11 10:47:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-11 10:47:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-11 10:47:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-11 10:47:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-11 10:47:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Pritee/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
